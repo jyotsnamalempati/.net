@@ -1,0 +1,7 @@
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\AspnetCore.exe
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\AspnetCore.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\AspnetCore.deps.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\AspnetCore.runtimeconfig.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Release\net6.0\PubTmp\Out\AspnetCore.pdb

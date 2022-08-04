@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Resources\jwt-decode-2.2.0.js" />
+    <None Include="wwwroot\Resources\jwt-decode-2.2.0.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="jwt-decode" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.45.0" />
+    <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="2.22.0" />
+  </ItemGroup>
+
+</Project>

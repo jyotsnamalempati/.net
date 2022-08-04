@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CidpVvQMm0yaUMPaZXajbNe/kEI6p1rW+utAtV8LSHmM8FyAQURmeV6VETyy6pykgdEkMt85J6toFZcSzBsGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmevada\\Downloads\\AspnetCore (3)\\AspnetCore\\AspnetCore\\AspnetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmevada\\.nuget\\packages\\jwt-decode\\2.2.0\\jwt-decode.2.2.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\microsoft.identity.client\\4.45.0\\microsoft.identity.client.4.45.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.22.0\\microsoft.identity.client.extensions.msal.2.22.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\dmevada\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

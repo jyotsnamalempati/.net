@@ -1,0 +1,64 @@
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\appsettings.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.staticwebassets.runtime.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.exe
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.deps.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.runtimeconfig.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.pdb
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.AssemblyReference.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.AssemblyInfoInputs.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.AssemblyInfo.cs
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.CoreCompileInputs.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.RazorAssemblyInfo.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.RazorAssemblyInfo.cs
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\bundle\AspnetCore.styles.css
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\projectbundle\AspnetCore.bundle.scp.css
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\refint\AspnetCore.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.pdb
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.genruntimeconfig.cache
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\ref\AspnetCore.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.CopyComplete
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raghu\source\repos\AspnetCore\AspnetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\appsettings.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.staticwebassets.runtime.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.exe
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.deps.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.runtimeconfig.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\AspnetCore.pdb
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.AssemblyReference.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.AssemblyInfoInputs.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.AssemblyInfo.cs
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.CoreCompileInputs.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.RazorAssemblyInfo.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.RazorAssemblyInfo.cs
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\bundle\AspnetCore.styles.css
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\scopedcss\projectbundle\AspnetCore.bundle.scp.css
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.csproj.CopyComplete
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\refint\AspnetCore.dll
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.pdb
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\AspnetCore.genruntimeconfig.cache
+C:\Users\dmevada\Downloads\AspnetCore (3)\AspnetCore\AspnetCore\obj\Debug\net6.0\ref\AspnetCore.dll
